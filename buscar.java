@@ -18,7 +18,7 @@ public class buscar {
     }
 
     public static void main(String[] args) {
-        // TO-DO Pruebas de funcionamiento
+        // TO-DO Pruebas_3 de funcionamiento
                 int[][] matriz1 = { { 1, 2, 3 }, { 1, 2, 3 } };
                 int n=2;
                 

@@ -388,7 +388,7 @@ public class Pruebas {
         // pruebas
 
         /*System.out.println("------------------------- PRUEBAS DE GRADO ARBOL: --------------------------");
-        System.out.print("Grado Arbol_N:");
+        System.out.print("Grado Arbol_N1:");
         System.out.println(gradoArbol(arbol_N));
         System.out.print("Grado Arbol_N2:");
         System.out.println(gradoArbol(arbol_N2));
@@ -398,9 +398,9 @@ public class Pruebas {
         System.out.println();*/
 
         System.out.println("------------------------ PRUEBAS DE ARBOL BINARIO DE BUSQUEDA: ----------------------------");
-        System.out.print("¿Es el Arbol_N binario de busqueda?: ");
+        System.out.print("¿Es el Arbol_N1 binario de busqueda?: ");
         System.out.println(esABB(arbol_N));
-        System.out.print("¿Es el Arbol_N binario de busqueda?: ");
+        System.out.print("¿Es el Arbol_N1 binario de busqueda?: ");
         System.out.println(esABB(arbol_N1));
         System.out.print("¿Es el Arbol_N2 binario de busqueda?: ");
         System.out.println(esABB(arbol_N2));
@@ -423,9 +423,9 @@ public class Pruebas {
         /*System.out.println("------------------------ PRUEBAS DE ARBOL IGUALES: ----------------------------");
         System.out.print("¿Es el Arbol_N2 igual al Arbol_N1?: ");
         System.out.println(sonIguales(arbol_N2,arbol_N1));
-        System.out.print("¿Es el Arbol_N igual al Arbol_N1?: ");
+        System.out.print("¿Es el Arbol_N1 igual al Arbol_N1?: ");
         System.out.println(sonIguales(arbol_N,arbol_N1));
-        System.out.print("¿Es el Arbol_N igual al Arbol_ABB?: ");
+        System.out.print("¿Es el Arbol_N1 igual al Arbol_ABB?: ");
         System.out.println(sonIguales(arbol_N,arbol_ABB));
         System.out.print("¿Es el Arbol_ABB igual al Arbol_ABB1?: ");
         System.out.println(sonIguales(arbol_ABB,arbol_ABB1));*/
@@ -439,7 +439,7 @@ public class Pruebas {
 
 
 
-}//Clase Pruebas
+}//Clase Pruebas_3
 
 
 

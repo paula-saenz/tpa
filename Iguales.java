@@ -12,8 +12,8 @@ public class Iguales {
 	 * Función booleana que compara dos matrices de números enteros, aplicando una
 	 * estrategía de Divide y Vencerás.
 	 *
-	 * @param matriz1 Matriz AxB de números enteros
-	 * @param m2 Matriz CxD de números enteros
+	 * @param
+	 * @param
 	 * @return true/false en función de si las matrices son iguales
 	 */
 
@@ -46,7 +46,7 @@ public class Iguales {
 		return true;
 	}// iguales_DV
 	public static void main(String[] args) {
-// TO-DO Pruebas de funcionamiento
+// TO-DO Pruebas_3 de funcionamiento
 		int[][] matriz1 = { { 1, 2, 3 }, { 1, 2, 3 } };
 		int[][] matriz2 = { { 1, 2, 3 }, { 1, 2, 3 } };
 		

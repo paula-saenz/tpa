@@ -6,10 +6,13 @@ public class busbin_iterativa {
          } else if (a[fin] == x) {
             return fin;
          } else {
-            while(ini < fin) {
+            int pos = -1;
+            boolean encontrado = false;
+            while(ini < fin && !encontrado) {
                int mitad = (ini + fin) / 2;
                if (a[mitad] == x) {
-                  return mitad;
+                  pos = mitad;
+                  encontrado = true;
                }
 
                if (a[mitad] < x) {
@@ -19,7 +22,7 @@ public class busbin_iterativa {
                }
             }
 
-            return 1;
+            return pos;
          }
       } else {
          return -1;

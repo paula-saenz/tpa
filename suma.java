@@ -21,7 +21,7 @@ public class suma {
         }
 
     public static void main(String[] args) {
-        // TO-DO Pruebas de funcionamiento
+        // TO-DO Pruebas_3 de funcionamiento
                 int[][] matriz1 = { { 1, 2, 3 }, { 1, 2, 3 } };
                 int[][] matriz2 = { { 1, 2, 3 }, { 1, 2, 3 } };
                 int[][] matriz3 =  new int[matriz1.length][matriz1[0].length];
