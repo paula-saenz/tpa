@@ -26,7 +26,7 @@ public class matriz_traspuesta {
                 {1,2,3,4},
                 {0,9,8,7},
                 {1,3,4,5},
-                {5,4,3,2}
+                {5,4,3,2},
         };
 
         int[][] b = new int[a.length][a[0].length];
